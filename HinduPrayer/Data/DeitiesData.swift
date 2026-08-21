@@ -6,7 +6,7 @@ let allDeities: [Deity] = [
         name: "Lord Ganesha",
         sanskritName: "\u{0917}\u{0923}\u{0947}\u{0936}",
         description: "The remover of obstacles, lord of beginnings, wisdom and intellect. Worshipped first in all auspicious ceremonies.",
-        icon: "elephant",
+        icon: "sparkles",
         color: AppTheme.saffron,
         mantraIds: ["ganesha"],
         aarti: """
@@ -19,7 +19,7 @@ let allDeities: [Deity] = [
         name: "Lord Shiva",
         sanskritName: "\u{0936}\u{093f}\u{0935}",
         description: "The Auspicious One, the Destroyer and Transformer. Lord of Yoga, meditation and the cosmic dance (Tandava).",
-        icon: "moon.stars",
+        icon: "moon.stars.fill",
         color: Color(red: 0.29, green: 0.08, blue: 0.55),
         mantraIds: ["om-namah-shivaya", "mahamrityunjaya"],
         aarti: """
